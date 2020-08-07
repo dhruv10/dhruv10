@@ -7,7 +7,7 @@
   <img style="margin-right: 10px" alt="Dhruv Bhatnagar | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/dhruvbhatnagar10/">
-  <img style="margin-right: 10px" alt="Dhruv Bhatnagar | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img style="margin-right: 10px;" alt="Dhruv Bhatnagar | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 
@@ -20,7 +20,7 @@ A final year CS undergrad pursuing engineering from GGS Indraprastha University,
 <br />
 My interest lies in product thinking, first principles thinking and writing some code to build cool stuff. Currently building leverage in the fundamentals of computer science.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
+<img align="right" style="width: 50%" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
 
 <br />
 **Let me tell you about myself:**
