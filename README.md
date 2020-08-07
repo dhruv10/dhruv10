@@ -17,15 +17,15 @@
 
 A final year CS undergrad pursuing engineering from GGS Indraprastha University, New Delhi.
 <br />
-<br />
-My interest lies in product thinking, first principles thinking and writing some code to build cool stuff. Currently building leverage in the fundamentals of computer science.
+My interest lies in product thinking, first principles thinking and writing some code to build cool stuff.
 
 <img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
 
-### Let me tell you about myself:
+### What am I doing these days?
 
-- 🔭 I’m currently working on building my competency;
+- 👨🏽‍💻 I’m currently working on building my competency;
 - 🌱 By learning Data structures & Algorithms;
-- 🤔 Also looking for referrals in SDE role;
-- ⚡ Fun fact: I'm a lucid dreamer;
+- 🤔 And, also looking for referrals in SDE role;
+- ⚡  A fun fact being I'm a lucid dreamer;
+- 🔭 Who is avidly interested in mental models;
 
