@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey 👋, I'm [Dhruv!](https://www.linkedin.com/in/dhruvbhatnagar10/)
 
-<!--
-**dhruv10/dhruv10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/dhruvbhatnagar0">
+  <img style="margin-right: 10px" alt="Dhruv Bhatnagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/dhruvbhatnagar10/">
+  <img style="margin-right: 10px" alt="Dhruv Bhatnagar | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://leetcode.com/dhruvbhatnagar10/">
+  <img style="margin-right: 10px" alt="Dhruv Bhatnagar | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<br />
+
+A final year CS undergrad pursuing engineering from GGS Indraprastha University, New Delhi.
+<br />
+<br />
+My interest lies in product thinking, first principles thinking and writing some code to build cool stuff. Currently building leverage in the fundamentals of computer science.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
+
+<br />
+**Let me tell you about myself:**
+
+- 🔭 I’m currently working on building my competency;
+- 🌱 By learning Data structures & Algorithms;
+- 🤔 Also looking for referrals in SDE role;
+- ⚡ Fun fact: I'm a lucid dreamer;
+
