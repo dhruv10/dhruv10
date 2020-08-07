@@ -20,7 +20,7 @@ A final year CS undergrad pursuing engineering from GGS Indraprastha University,
 <br />
 My interest lies in product thinking, first principles thinking and writing some code to build cool stuff. Currently building leverage in the fundamentals of computer science.
 
-<img align="right" style="width: 200px" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
+<img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
 
 ### Let me tell you about myself:
 
