@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Dhruv!](https://www.linkedin.com/in/dhruvbhatnagar10/)
+### Hey 👋, I'm [Dhruv!](https://www.notion.so/Project-Showcase-45213d427d3949f694ae2c1966bb96a3)
 
 <a href="https://twitter.com/dhruvbhatnagar0">
   <img style="margin-right: 10px" alt="Dhruv Bhatnagar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,7 +23,7 @@ My interest lies in product thinking, first principles thinking and writing some
 
 ### What am I doing these days?
 
-- 👨🏽‍💻 I’m currently working on building my competency;
+- 👨🏽‍💻  I’m currently working on building my competency;
 - 🌱 By learning Data structures & Algorithms;
 - 🤔 And, also looking for referrals in SDE role;
 - ⚡  A fun fact being I'm a lucid dreamer;
