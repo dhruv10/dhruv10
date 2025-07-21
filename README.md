@@ -7,7 +7,7 @@
   <img style="margin-right: 10px" alt="Dhruv Bhatnagar | LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/dhruvbhatnagar10/">
-  <img style="margin-right: 10px;" alt="Dhruv Bhatnagar | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img style="margin-right: 10px; color: blue;" alt="Dhruv Bhatnagar | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 
@@ -15,9 +15,12 @@
 <br />
 <br />
 
-A senior web engineer at [Oro](https://oromoney.in/).
+A senior web engineer at [Oro Money](https://oromoney.in/). Read more about [my work](https://dhrv.xyz/work).
 
 <img align="right" width="300" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/source.gif" />
+
+<img width="939" height="575" alt="work-account-data" src="https://github.com/user-attachments/assets/181898e8-7f2c-459e-8e7f-8564f33f2cf6" />
+
 <!-- 
 ### What am I doing these days?
 
